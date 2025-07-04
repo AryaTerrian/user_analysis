@@ -9,7 +9,7 @@ from pathlib import Path
 from datetime import date
 import pandas as pd
 import matplotlib.pyplot as plt
-import match_bingo_sample_data_analysis as st
+import streamlit as st
 
 
 
